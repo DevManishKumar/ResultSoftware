@@ -11,6 +11,10 @@ Result Software is a comprehensive MERN Stack application designed to facilitate
 - Create, edit, and delete classes.
 - Define exams for each class.
 
+### Section Management:
+- Create, edit, and delete Section.
+- Define exams for each Section.
+
 ### Student Management:
 - Add, edit, and remove students' information.
 - Store essential details like name, email, and more.
